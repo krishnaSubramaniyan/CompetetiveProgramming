@@ -4,6 +4,6 @@ store competetive question codes
 |--------------+--------------+----------|
 | Problem Name | Problem Link | Solution |
 |--------------+--------------+----------|
-| 839A         | [[url:https://codeforces.com/problemset/problem/839/A][839 A]]        | [[url:./codeForces/python/839.py][Python]]   |
+| 839A         | [[https://codeforces.com/problemset/problem/839/A][839A]]         | [[./codeForces/python/839A.py][Python]]   |
 |--------------+--------------+----------|
 
