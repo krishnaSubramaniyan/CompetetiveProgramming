@@ -1,9 +1,0 @@
-* Competetive Programming
-store competetive question codes
-** CodeForces
-|--------------+--------------+----------|
-| Problem Name | Problem Link | Solution |
-|--------------+--------------+----------|
-| 839A         | [[url:https://codeforces.com/problemset/problem/839/A][839 A]]        | [[url:./codeForces/python/839.py][Python]]   |
-|--------------+--------------+----------|
-
