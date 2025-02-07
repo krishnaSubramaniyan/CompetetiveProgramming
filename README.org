@@ -7,5 +7,6 @@ store competetive question codes
 | 839A         | [[https://codeforces.com/problemset/problem/839/A][839A]]         | [[./codeForces/python/839A.py][Python]]   |
 | 1791A        | [[https://codeforces.com/contest/1791/problem/A][1791A]]        | [[./codeForces/python/1791A.py][Python]]   |
 | 611A         | [[https://codeforces.com/contest/611/problem/A][611A]]         | [[./codeForces/python/611A.py][Python]]   |
+| 45A          | [[https://codeforces.com/contest/45/problem/A][45A]]          | [[./codeForces/python/45A.py][Python]]   |
 |--------------+--------------+----------|
 
