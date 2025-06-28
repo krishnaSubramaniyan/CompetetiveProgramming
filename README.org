@@ -9,5 +9,3 @@ store competetive question codes
 | 611A         | [[https://codeforces.com/contest/611/problem/A][611A]]         | [[./codeForces/python/611A.py][Python]]   |
 | 45A          | [[https://codeforces.com/contest/45/problem/A][45A]]          | [[./codeForces/python/45A.py][Python]]   |
 | 408A         | [[https://codeforces.com/contest/408/problem/A][408A]]         | [[./codeForces/python/408A.py][Python]]   |
-|--------------+--------------+----------|
-
