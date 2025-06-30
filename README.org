@@ -13,3 +13,4 @@ store competetive question codes
 | 4A | [[https://codeforces.com/problemset/problem/4/A][4A]] | [[./codeForces/python/4A.py][Python]] |
 | 71A | [[https://codeforces.com/problemset/problem/71/A][71A]] | [[./codeForces/python/71A.py][Python]] |
 | 231A | [[https://codeforces.com/problemset/problem/231/A][231A]] | [[./codeForces/python/231A.py][Python]] |
+| 282A | [[https://codeforces.com/problemset/problem/282/A][282A]] | [[./codeForces/python/282A.py][Python]] |
