@@ -15,3 +15,4 @@ store competetive question codes
 | 231A | [[https://codeforces.com/problemset/problem/231/A][231A]] | [[./codeForces/python/231A.py][Python]] |
 | 282A | [[https://codeforces.com/problemset/problem/282/A][282A]] | [[./codeForces/python/282A.py][Python]] |
 | 158A | [[https://codeforces.com/problemset/problem/158/A][158A]] | [[./codeForces/python/158A.py][Python]] |
+| 50A | [[https://codeforces.com/problemset/problem/50/A][50A]] | [[./codeForces/python/50A.py][Python]] |
