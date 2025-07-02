@@ -17,3 +17,4 @@ store competetive question codes
 | 158A | [[https://codeforces.com/problemset/problem/158/A][158A]] | [[./codeForces/python/158A.py][Python]] |
 | 50A | [[https://codeforces.com/problemset/problem/50/A][50A]] | [[./codeForces/python/50A.py][Python]] |
 | 263A | [[https://codeforces.com/problemset/problem/263/A][263A]] | [[./codeForces/python/263A.py][Python]] |
+| 112A | [[https://codeforces.com/contest/112/problem/A][112A]] | [[./codeForces/python/112A.py][Python]] |
