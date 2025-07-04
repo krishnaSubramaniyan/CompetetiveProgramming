@@ -21,3 +21,4 @@ store competetive question codes
 | 339A | [[https://codeforces.com/problemset/problem/339/A][339A]] | [[./codeForces/python/339A.py][Python]] |
 | 236A | [[https://codeforces.com/problemset/problem/236/A][236A]] | [[./codeForces/python/236A.py][Python]] |
 | 281A | [[https://codeforces.com/problemset/problem/281/A][281A]] | [[./codeForces/python/281A.py][Python]] |
+| 791A | [[https://codeforces.com/problemset/problem/791/A][791A]] | [[./codeForces/python/791A.py][Python]] |
