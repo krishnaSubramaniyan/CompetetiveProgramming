@@ -26,3 +26,4 @@ store competetive question codes
 | 617A | [[https://codeforces.com/problemset/problem/617/A][617A]] | [[./codeForces/python/617A.py][Python]] |
 | 546A | [[https://codeforces.com/problemset/problem/546/A][546A]] | [[./codeForces/python/546A.py][Python]] |
 | 59A | [[https://codeforces.com/problemset/problem/59/A][59A]] | [[./codeForces/python/59A.py][Python]] |
+| 977A | [[https://codeforces.com/problemset/problem/977/A][977A]] | [[./codeForces/python/977A.py][Python]] |
