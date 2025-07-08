@@ -30,3 +30,4 @@ store competetive question codes
 | 110A | [[https://codeforces.com/problemset/problem/110/A][110A]] | [[./codeForces/python/110A.py][Python]] |
 | 734A | [[https://codeforces.com/problemset/problem/734/A][734A]] | [[./codeForces/python/734A.py][Python]] |
 | 41A | [[https://codeforces.com/problemset/problem/41/A][41A]] | [[./codeForces/python/41A.py][Python]] |
+| 677A | [[https://codeforces.com/problemset/problem/677/A][677A]] | [[./codeForces/python/677A.py][Python]] |
