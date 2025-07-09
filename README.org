@@ -33,3 +33,4 @@ store competetive question codes
 | 677A | [[https://codeforces.com/problemset/problem/677/A][677A]] | [[./codeForces/python/677A.py][Python]] |
 | 116A | [[https://codeforces.com/problemset/problem/116/A][116A]] | [[./codeForces/python/116A.py][Python]] |
 | 271A | [[https://codeforces.com/problemset/problem/271/A][271A]] | [[./codeForces/python/271A.py][Python]] |
+| 1030A | [[https://codeforces.com/problemset/problem/1030/A][1030A]] | [[./codeForces/python/1030A.py][Python]] |
