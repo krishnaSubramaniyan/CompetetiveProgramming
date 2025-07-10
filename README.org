@@ -38,3 +38,4 @@ store competetive question codes
 | 467A | [[https://codeforces.com/problemset/problem/467/A][467A]] | [[./codeForces/python/467A.py][Python]] |
 | 344A | [[https://codeforces.com/problemset/problem/344/A][344A]] | [[./codeForces/python/344A.py][Python]] |
 | 486A | [[https://codeforces.com/problemset/problem/486/A][486A]] | [[./codeForces/python/486A.py][Python]] |
+| 136A | [[https://codeforces.com/problemset/problem/136/A][136A]] | [[./codeForces/python/136A.py][Python]] |
