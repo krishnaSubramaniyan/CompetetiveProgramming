@@ -36,3 +36,4 @@ store competetive question codes
 | 1030A | [[https://codeforces.com/problemset/problem/1030/A][1030A]] | [[./codeForces/python/1030A.py][Python]] |
 | 266B | [[https://codeforces.com/problemset/problem/266/B][266B]] | [[./codeForces/python/266B.py][Python]] |
 | 467A | [[https://codeforces.com/problemset/problem/467/A][467A]] | [[./codeForces/python/467A.py][Python]] |
+| 344A | [[https://codeforces.com/problemset/problem/344/A][344A]] | [[./codeForces/python/344A.py][Python]] |
