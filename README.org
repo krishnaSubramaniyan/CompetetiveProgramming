@@ -42,3 +42,4 @@ store competetive question codes
 | 200B | [[https://codeforces.com/problemset/problem/200/B][200B]] | [[./codeForces/python/200B.py][Python]] |
 | 228A | [[https://codeforces.com/problemset/problem/228/A][228A]] | [[./codeForces/python/228A.py][Python]] |
 | 61A | [[https://codeforces.com/problemset/problem/61/A][61A]] | [[./codeForces/python/61A.py][Python]] |
+| 705A | [[https://codeforces.com/problemset/problem/705/A][705A]] | [[./codeForces/python/705A.py][Python]] |
