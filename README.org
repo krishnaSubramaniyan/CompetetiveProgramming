@@ -43,3 +43,4 @@ store competetive question codes
 | 228A | [[https://codeforces.com/problemset/problem/228/A][228A]] | [[./codeForces/python/228A.py][Python]] |
 | 61A | [[https://codeforces.com/problemset/problem/61/A][61A]] | [[./codeForces/python/61A.py][Python]] |
 | 705A | [[https://codeforces.com/problemset/problem/705/A][705A]] | [[./codeForces/python/705A.py][Python]] |
+| 1328A | [[https://codeforces.com/problemset/problem/1328/A][1328A]] | [[./codeForces/python/1328A.py][Python]] |
