@@ -45,3 +45,4 @@ store competetive question codes
 | 705A | [[https://codeforces.com/problemset/problem/705/A][705A]] | [[./codeForces/python/705A.py][Python]] |
 | 1328A | [[https://codeforces.com/problemset/problem/1328/A][1328A]] | [[./codeForces/python/1328A.py][Python]] |
 | 520A | [[https://codeforces.com/problemset/problem/520/A][520A]]                            | [[./codeForces/python/520A.py][Python]] |
+| 469A | [[https://codeforces.com/problemset/problem/469/A][469A]] | [[./codeForces/python/469A.py][Python]] |
