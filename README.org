@@ -48,3 +48,4 @@ store competetive question codes
 | 469A | [[https://codeforces.com/problemset/problem/469/A][469A]] | [[./codeForces/python/469A.py][Python]] |
 | 144A | [[https://codeforces.com/problemset/problem/144/A][144A]] | [[./codeForces/python/144A.py][Python]] |
 | 996A | [[https://codeforces.com/problemset/problem/996/A][996A]] | [[./codeForces/python/996A.py][Python]] |
+| 148A | [[https://codeforces.com/problemset/problem/148/A][148A]] | [[./codeForces/python/148A.py][Python]] |
