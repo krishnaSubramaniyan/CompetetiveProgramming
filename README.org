@@ -51,3 +51,4 @@ store competetive question codes
 | 148A | [[https://codeforces.com/problemset/problem/148/A][148A]] | [[./codeForces/python/148A.py][Python]] |
 | 443A | [[https://codeforces.com/problemset/problem/443/A][443A]] | [[./codeForces/python/443A.py][Python]] |
 | 785A | [[https://codeforces.com/problemset/problem/785/A][785A]] | [[./codeForces/python/785A.py][Python]] |
+| 268A | [[https://codeforces.com/problemset/problem/268/A][268A]] | [[./codeForces/python/268A.py][Python]] |
