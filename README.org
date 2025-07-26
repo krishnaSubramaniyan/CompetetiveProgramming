@@ -60,3 +60,4 @@ store competetive question codes
 | 1742A | [[https://codeforces.com/problemset/problem/1742/A][1742A]] | [[./codeForces/python/1742A.py][Python]] |
 | 427A | [[https://codeforces.com/problemset/problem/427/A][427A]] | [[./codeForces/python/427A.py][Python]] |
 | 750A | [[https://codeforces.com/problemset/problem/750/A][750A]] | [[./codeForces/python/750A.py][Python]] |
+| 151A | [[https://codeforces.com/problemset/problem/151/A][151A]] | [[./codeForces/python/151A.py][Python]] |
