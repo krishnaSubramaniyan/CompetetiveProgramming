@@ -62,3 +62,4 @@ store competetive question codes
 | 750A | [[https://codeforces.com/problemset/problem/750/A][750A]] | [[./codeForces/python/750A.py][Python]] |
 | 151A | [[https://codeforces.com/problemset/problem/151/A][151A]] | [[./codeForces/python/151A.py][Python]] |
 | 1703A | [[https://codeforces.com/problemset/problem/1703/A][1703A]] | [[./codeForces/python/1703A.py][Python]] |
+| 2128A | [[https://codeforces.com/contest/2128/problem/A][2128A]] | [[./codeForces/python/2128A.py][Python]] |
