@@ -65,3 +65,4 @@ store competetive question codes
 | 2128A | [[https://codeforces.com/contest/2128/problem/A][2128A]] | [[./codeForces/python/2128A.py][Python]] |
 | 732A | [[https://codeforces.com/problemset/problem/732/A][732A]] | [[./codeForces/python/732A.py][Python]] |
 | 630A | [[https://codeforces.com/problemset/problem/630/A][630A]] | [[./codeForces/python/630A.py][Python]] |
+| 1154A | [[https://codeforces.com/problemset/problem/1154/A][1154A]] | [[./codeForces/python/1154A.py][Python]] |
