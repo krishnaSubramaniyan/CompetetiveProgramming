@@ -69,3 +69,4 @@ store competetive question codes
 | 581A | [[http://codeforces.com/problemset/problem/581/A][581A]] | [[./codeForces/python/581A.py][Python]] |
 | 381A | [[https://codeforces.com/problemset/problem/381/A][381A]] | [[./codeForces/python/381A.py][Python]] |
 | 1409A | [[https://codeforces.com/problemset/problem/1409/A][1409A]] | [[./codeForces/python/1409A.py][Python]] |
+| 1399A | [[https://codeforces.com/problemset/problem/1399/A][1399A]] | [[./codeForces/python/1399A.py][Python]] |
