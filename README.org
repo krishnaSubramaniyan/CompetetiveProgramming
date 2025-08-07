@@ -78,3 +78,4 @@ store competetive question codes
 | 1999A | [[https://codeforces.com/problemset/problem/1999/A][1999A]] | [[./codeForces/python/1999A.py][Python]] |
 | 1760A | [[https://codeforces.com/problemset/problem/1760/A][1760A]] | [[./codeForces/python/1760A.py][Python]] |
 | 1915A | [[http://codeforces.com/problemset/problem/1915/A][1915A]] | [[./codeForces/python/1915A.py][Python]] |
+| 758A | [[https://codeforces.com/problemset/problem/758/A][758A]] | [[./codeForces/python/758A.py][Python]] |
