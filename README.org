@@ -83,3 +83,4 @@ store competetive question codes
 | 1899A | [[https://codeforces.com/problemset/problem/1899/A][1899A]] | [[./codeForces/python/1899A.py][Python]] |
 | 472A | [[https://codeforces.com/problemset/problem/472/A][472A]] | [[./codeForces/python/472A.py][Python]] |
 | 1850A | [[https://codeforces.com/problemset/problem/1850/A][1850A]] | [[./codeForces/python/1850A.py][Python]] |
+| 432A | [[https://codeforces.com/problemset/problem/432/A][432A]] | [[./codeForces/python/432A.py][Python]] |
