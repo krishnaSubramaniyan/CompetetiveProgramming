@@ -86,3 +86,4 @@ store competetive question codes
 | 432A | [[https://codeforces.com/problemset/problem/432/A][432A]] | [[./codeForces/python/432A.py][Python]] |
 | 490A | [[https://codeforces.com/problemset/problem/490/A][490A]] | [[./codeForces/python/490A.py][Python]] |
 | 2009A | [[https://codeforces.com/problemset/problem/2009/A][2009A]] | [[./codeForces/python/2009A.py][Python]] |
+| 1985A | [[https://codeforces.com/problemset/problem/1985/A][1985A]] | [[./codeForces/python/1985A.py][Python]] |
