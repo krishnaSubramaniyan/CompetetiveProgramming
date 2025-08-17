@@ -88,3 +88,4 @@ store competetive question codes
 | 2009A | [[https://codeforces.com/problemset/problem/2009/A][2009A]] | [[./codeForces/python/2009A.py][Python]] |
 | 1985A | [[https://codeforces.com/problemset/problem/1985/A][1985A]] | [[./codeForces/python/1985A.py][Python]] |
 | 9A | [[https://codeforces.com/problemset/problem/9/A][9A]] | [[./codeForces/python/9A.py][Python]] || 1873A | [[https://codeforces.com/problemset/problem/1873/A][1873A]] | [[./codeForces/python/1873A.py][Python]] |
+| 1367A | [[https://codeforces.com/problemset/problem/1367/A][1367A]] | [[./codeForces/python/1367A.py][Python]] |
