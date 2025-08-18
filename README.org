@@ -90,3 +90,4 @@ store competetive question codes
 | 9A | [[https://codeforces.com/problemset/problem/9/A][9A]] | [[./codeForces/python/9A.py][Python]] || 1873A | [[https://codeforces.com/problemset/problem/1873/A][1873A]] | [[./codeForces/python/1873A.py][Python]] |
 | 1367A | [[https://codeforces.com/problemset/problem/1367/A][1367A]] | [[./codeForces/python/1367A.py][Python]] |
 | 1950A | [[https://codeforces.com/problemset/problem/1950/A][1950A]] | [[./codeForces/python/1950A.py][Python]] |
+| 1857A | [[https://codeforces.com/problemset/problem/1857/A][1857A]] | [[./codeForces/python/1857A.py][Python]] |
