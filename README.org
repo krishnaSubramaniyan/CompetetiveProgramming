@@ -94,3 +94,4 @@ store competetive question codes
 | 1857A | [[https://codeforces.com/problemset/problem/1857/A][1857A]] | [[./codeForces/python/1857A.py][Python]] |
 | 703A | [[https://codeforces.com/problemset/problem/703/A][703A]] | [[./codeForces/python/703A.py][Python]] |
 | 1829A | [[https://codeforces.com/problemset/problem/1829/A][1829A]] | [[./codeForces/python/1829A.py][Python]] |
+| 2132A | [[https://codeforces.com/contest/2132/problem/A][2132A]] | [[./codeForces/python/2132A.py][Python]] |
