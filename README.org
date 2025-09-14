@@ -100,3 +100,4 @@ store competetive question codes
 | 2148A | [[https://codeforces.com/contest/2148/problem/A][2148A]] | [[./codeForces/python/2148A.py][Python]] |
 | 1878A | [[https://codeforces.com/problemset/problem/1878/A][1878A]] | [[./codeForces/python/1878A.py][Python]] |
 | 1343B | [[https://codeforces.com/problemset/problem/1343/B][1343B]] | [[./codeForces/python/1343B.py][Python]] |
+| 341A | [[https://codeforces.com/problemset/problem/431/A][341A]] | [[./codeForces/python/341A.py][Python]] |
