@@ -101,3 +101,4 @@ store competetive question codes
 | 1878A | [[https://codeforces.com/problemset/problem/1878/A][1878A]] | [[./codeForces/python/1878A.py][Python]] |
 | 1343B | [[https://codeforces.com/problemset/problem/1343/B][1343B]] | [[./codeForces/python/1343B.py][Python]] |
 | 341A | [[https://codeforces.com/problemset/problem/431/A][341A]] | [[./codeForces/python/341A.py][Python]] |
+| 80A | [[https://codeforces.com/problemset/problem/80/A][80A]] | [[./codeForces/python/80A.py][Python]] |
