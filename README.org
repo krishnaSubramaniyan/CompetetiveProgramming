@@ -105,3 +105,4 @@ store competetive question codes
 | 1791C | [[https://codeforces.com/problemset/problem/1791/C][1791C]] | [[./codeForces/python/1791C.py][Python]] |
 | 1374A | [[https://codeforces.com/problemset/problem/1374/A][1374A]] | [[./codeForces/python/1374A.py][Python]] |
 | 1367B | [[https://codeforces.com/problemset/problem/1367/B][1367B]] | [[./codeForces/python/1367B.py][Python]] |
+| 1703B | [[https://codeforces.com/problemset/problem/1703/B][1703B]] | [[./codeForces/python/1703B.py][Python]] |
