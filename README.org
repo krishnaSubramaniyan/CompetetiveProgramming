@@ -110,3 +110,4 @@ store competetive question codes
 | 1722A | [[https://codeforces.com/problemset/problem/1722/A][1722A]] | [[./codeForces/python/1722A.py][Python]] |
 | 1903A | [[https://codeforces.com/problemset/problem/1903/A][1903A]] | [[./codeForces/python/1903A.py][Python]] |
 | 1370A | [[https://codeforces.com/problemset/problem/1370/A][1370A]] | [[./codeForces/python/1370A.py][Python]] |
+| 1619A | [[https://codeforces.com/problemset/problem/1619/A][1619A]] | [[./codeForces/python/1619A.py][Python]] |
