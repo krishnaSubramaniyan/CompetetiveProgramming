@@ -115,3 +115,4 @@ store competetive question codes
 | 492A | [[https://codeforces.com/problemset/problem/492/A][492A]] | [[./codeForces/python/492A.py][Python]] |
 | 1873B | [[https://codeforces.com/problemset/problem/1873/B][1873B]] | [[./codeForces/python/1873B.py][Python]] |
 | 1283A | [[https://codeforces.com/problemset/problem/1283/A][1283A]] | [[./codeForces/python/1283A.py][Python]] |
+| 1873C | [[https://codeforces.com/problemset/problem/1873/C][1873C]] | [[./codeForces/python/1873C.py][Python]] |
