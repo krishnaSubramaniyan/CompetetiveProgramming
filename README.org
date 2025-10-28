@@ -119,3 +119,4 @@ store competetive question codes
 | 1901A | [[https://codeforces.com/problemset/problem/1901/A][1901A]] | [[./codeForces/python/1901A.py][Python]] |
 | 1537A | [[https://codeforces.com/problemset/problem/1537/A][1537A]] | [[./codeForces/python/1537A.py][Python]] |
 | 2167A | [[https://codeforces.com/contest/2167/problem/A][2167A]] | [[./codeForces/python/2167A.py][Python]] |
+| 2167B | [[https://codeforces.com/contest/2167/problem/B][2167B]] | [[./codeForces/python/2167B.py][Python]] |
